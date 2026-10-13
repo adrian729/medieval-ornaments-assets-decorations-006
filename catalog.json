@@ -1,0 +1,4929 @@
+[
+  {
+    "description": "Two winged putti seated among clouds inside connected circular medallions with acanthus tendrils, from Lucas van Leyden’s 1517 engraving. Part of the Two Putti acanthus medallions set.",
+    "categories": [
+      "floral",
+      "fantasy",
+      "humans"
+    ],
+    "subjects": [
+      "putto",
+      "wing",
+      "cloud",
+      "circle",
+      "acanthus",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "cream",
+      "gray"
+    ],
+    "composition": "single-ornament",
+    "name": "acanthus-double-medallion-with-two-winged-figures",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-364800",
+    "png": "png/acanthus-double-medallion-with-two-winged-figures.png",
+    "webp": "webp/acanthus-double-medallion-with-two-winged-figures.webp",
+    "width": 1900,
+    "height": 1178,
+    "png_bytes": 4312071,
+    "webp_bytes": 2384342,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/acanthus-double-medallion-with-two-winged-figures.png",
+        "webp": "webp/128/acanthus-double-medallion-with-two-winged-figures.webp",
+        "width": 128,
+        "height": 79,
+        "png_bytes": 31824,
+        "webp_bytes": 20412
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/acanthus-double-medallion-with-two-winged-figures.png",
+        "webp": "webp/256/acanthus-double-medallion-with-two-winged-figures.webp",
+        "width": 256,
+        "height": 159,
+        "png_bytes": 111764,
+        "webp_bytes": 73240
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/acanthus-double-medallion-with-two-winged-figures.png",
+        "webp": "webp/512/acanthus-double-medallion-with-two-winged-figures.webp",
+        "width": 512,
+        "height": 317,
+        "png_bytes": 399849,
+        "webp_bytes": 262358
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/acanthus-double-medallion-with-two-winged-figures.png",
+        "webp": "webp/768/acanthus-double-medallion-with-two-winged-figures.webp",
+        "width": 768,
+        "height": 476,
+        "png_bytes": 876587,
+        "webp_bytes": 544108
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Two Putti Seated in Clouds in Circles with Tendrils",
+      "object_identifier": "63.546.1",
+      "date": "1517",
+      "artist": "Lucas van Leyden",
+      "record_url": "https://www.metmuseum.org/art/collection/search/364800",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "bbc95013cba018fc6acffad61f1ae5644e2a937c9998078f452dec37bac42e39",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP819073.jpg",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete finite original foliate double roundel with both winged children, held props and original contacting cloud supports. Plain hatch ground and artist-letter plaque are excluded, including true open sky spaces inside the circles. Original intrinsic flesh/cloud/leaf print shading remains opaque. Source RGB is unscaled; the retained registered AI guide supplies ownership only. Separate source-visible children with their clouds are also considered in the source audit; no inferred repeat or generic frame.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-364800-set",
+        "name": "Two Putti acanthus medallions"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2080,
+      "height": 1345
+    },
+    "master_longest_dimension_cap": 1900,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An arched canopy and leafy beams supporting two hanging birdcages, a central hanging drapery and delicate strands of tassels. Part of the Du Cerceau birdcage grotesques set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "canopy",
+      "cage",
+      "bird",
+      "drapery",
+      "tassel",
+      "leaf"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "arched-canopy-with-two-hanging-birdcages",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-338721",
+    "png": "png/arched-canopy-with-two-hanging-birdcages.png",
+    "webp": "webp/arched-canopy-with-two-hanging-birdcages.webp",
+    "width": 1725,
+    "height": 1224,
+    "png_bytes": 848399,
+    "webp_bytes": 503586,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/arched-canopy-with-two-hanging-birdcages.png",
+        "webp": "webp/128/arched-canopy-with-two-hanging-birdcages.webp",
+        "width": 128,
+        "height": 91,
+        "png_bytes": 20792,
+        "webp_bytes": 8814
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/arched-canopy-with-two-hanging-birdcages.png",
+        "webp": "webp/256/arched-canopy-with-two-hanging-birdcages.webp",
+        "width": 256,
+        "height": 182,
+        "png_bytes": 60815,
+        "webp_bytes": 27618
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/arched-canopy-with-two-hanging-birdcages.png",
+        "webp": "webp/512/arched-canopy-with-two-hanging-birdcages.webp",
+        "width": 512,
+        "height": 363,
+        "png_bytes": 182669,
+        "webp_bytes": 84296
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/arched-canopy-with-two-hanging-birdcages.png",
+        "webp": "webp/768/arched-canopy-with-two-hanging-birdcages.webp",
+        "width": 768,
+        "height": 545,
+        "png_bytes": 352176,
+        "webp_bytes": 164072
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Grotesque Ornament Panel, from \"Livre de Grotesques...\"",
+      "object_identifier": "49.95.321",
+      "date": "1566",
+      "artist": "Jacques Androuet Du Cerceau",
+      "record_url": "https://www.metmuseum.org/art/collection/search/338721",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite engraved composition retained with its source-supported outside plate rules. Clipped rules recovered from adjacent original scan pixels; faint thin-rule gaps narrowly completed with neighboring native ink profiles where recorded. Decorative hatch bands retain original print wear. No generic replacement frame or repeat is inferred. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-338721-set",
+        "name": "Du Cerceau birdcage grotesques"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4000,
+      "height": 2788
+    },
+    "master_longest_dimension_cap": 1725,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original cream printed arched lace with checker fans and square star, with the dark printed field removed. Part of the Latomus lace patterns set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "petal",
+      "roundel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "arched-lace-with-checker-fans-and-square-star",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/arched-lace-with-checker-fans-and-square-star.png",
+    "webp": "webp/arched-lace-with-checker-fans-and-square-star.webp",
+    "width": 683,
+    "height": 548,
+    "png_bytes": 143030,
+    "webp_bytes": 85152,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/arched-lace-with-checker-fans-and-square-star.png",
+        "webp": "webp/128/arched-lace-with-checker-fans-and-square-star.webp",
+        "width": 128,
+        "height": 103,
+        "png_bytes": 21149,
+        "webp_bytes": 10138
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/arched-lace-with-checker-fans-and-square-star.png",
+        "webp": "webp/256/arched-lace-with-checker-fans-and-square-star.webp",
+        "width": 256,
+        "height": 205,
+        "png_bytes": 66453,
+        "webp_bytes": 32862
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/arched-lace-with-checker-fans-and-square-star.png",
+        "webp": "webp/512/arched-lace-with-checker-fans-and-square-star.webp",
+        "width": 512,
+        "height": 411,
+        "png_bytes": 203744,
+        "webp_bytes": 112594
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source light-line polarity retained. Dark printed field is transparent, including actual openings. Original source-limited arched ends and cell geometry retained; no full missing circle is invented and no seamless period inferred. PNG master represents measured cream line coverage, not pixel-exact RGB or an inverted modern drawing. Whole subject bounds expanded before native alpha extraction. Unrelated page-cell rules, dark-field wear and neighboring motif fragments excluded; original source-visible terminations retained without repainting or inventing full circles.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 683,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original cream printed arched lace with compass star and dense small petals, with the dark printed field removed. Part of the Latomus lace patterns set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "petal",
+      "roundel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "arched-lace-with-compass-star-and-dense-small-petals",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/arched-lace-with-compass-star-and-dense-small-petals.png",
+    "webp": "webp/arched-lace-with-compass-star-and-dense-small-petals.webp",
+    "width": 619,
+    "height": 531,
+    "png_bytes": 131111,
+    "webp_bytes": 76940,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/arched-lace-with-compass-star-and-dense-small-petals.png",
+        "webp": "webp/128/arched-lace-with-compass-star-and-dense-small-petals.webp",
+        "width": 128,
+        "height": 110,
+        "png_bytes": 23330,
+        "webp_bytes": 11326
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/arched-lace-with-compass-star-and-dense-small-petals.png",
+        "webp": "webp/256/arched-lace-with-compass-star-and-dense-small-petals.webp",
+        "width": 256,
+        "height": 220,
+        "png_bytes": 75809,
+        "webp_bytes": 36886
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/arched-lace-with-compass-star-and-dense-small-petals.png",
+        "webp": "webp/512/arched-lace-with-compass-star-and-dense-small-petals.webp",
+        "width": 512,
+        "height": 439,
+        "png_bytes": 233436,
+        "webp_bytes": 125538
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source light-line polarity retained. Dark printed field is transparent, including actual openings. Original source-limited arched ends and cell geometry retained; no full missing circle is invented and no seamless period inferred. PNG master represents measured cream line coverage, not pixel-exact RGB or an inverted modern drawing. Whole subject bounds expanded before native alpha extraction. Unrelated page-cell rules, dark-field wear and neighboring motif fragments excluded; original source-visible terminations retained without repainting or inventing full circles.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 619,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original cream printed arched lace with concentric petal rosette, with the dark printed field removed. Part of the Latomus lace patterns set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "petal",
+      "roundel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "arched-lace-with-concentric-petal-rosette",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/arched-lace-with-concentric-petal-rosette.png",
+    "webp": "webp/arched-lace-with-concentric-petal-rosette.webp",
+    "width": 584,
+    "height": 543,
+    "png_bytes": 136310,
+    "webp_bytes": 80738,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/arched-lace-with-concentric-petal-rosette.png",
+        "webp": "webp/128/arched-lace-with-concentric-petal-rosette.webp",
+        "width": 128,
+        "height": 119,
+        "png_bytes": 27448,
+        "webp_bytes": 13276
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/arched-lace-with-concentric-petal-rosette.png",
+        "webp": "webp/256/arched-lace-with-concentric-petal-rosette.webp",
+        "width": 256,
+        "height": 238,
+        "png_bytes": 86140,
+        "webp_bytes": 42214
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/arched-lace-with-concentric-petal-rosette.png",
+        "webp": "webp/512/arched-lace-with-concentric-petal-rosette.webp",
+        "width": 512,
+        "height": 476,
+        "png_bytes": 262697,
+        "webp_bytes": 144888
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source light-line polarity retained. Dark printed field is transparent, including actual openings. Original source-limited arched ends and cell geometry retained; no full missing circle is invented and no seamless period inferred. PNG master represents measured cream line coverage, not pixel-exact RGB or an inverted modern drawing. Whole subject bounds expanded before native alpha extraction. Unrelated page-cell rules, dark-field wear and neighboring motif fragments excluded; original source-visible terminations retained without repainting or inventing full circles.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 584,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original cream printed arched lace with crossed stars and small petals, with the dark printed field removed. Part of the Latomus lace patterns set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "petal",
+      "roundel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "arched-lace-with-crossed-stars-and-small-petals",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/arched-lace-with-crossed-stars-and-small-petals.png",
+    "webp": "webp/arched-lace-with-crossed-stars-and-small-petals.webp",
+    "width": 686,
+    "height": 631,
+    "png_bytes": 185799,
+    "webp_bytes": 109064,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/arched-lace-with-crossed-stars-and-small-petals.png",
+        "webp": "webp/128/arched-lace-with-crossed-stars-and-small-petals.webp",
+        "width": 128,
+        "height": 118,
+        "png_bytes": 30530,
+        "webp_bytes": 14038
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/arched-lace-with-crossed-stars-and-small-petals.png",
+        "webp": "webp/256/arched-lace-with-crossed-stars-and-small-petals.webp",
+        "width": 256,
+        "height": 235,
+        "png_bytes": 95258,
+        "webp_bytes": 44604
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/arched-lace-with-crossed-stars-and-small-petals.png",
+        "webp": "webp/512/arched-lace-with-crossed-stars-and-small-petals.webp",
+        "width": 512,
+        "height": 471,
+        "png_bytes": 285299,
+        "webp_bytes": 150610
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source light-line polarity retained. Dark printed field is transparent, including actual openings. Original source-limited arched ends and cell geometry retained; no full missing circle is invented and no seamless period inferred. PNG master represents measured cream line coverage, not pixel-exact RGB or an inverted modern drawing. Whole subject bounds expanded before native alpha extraction. Unrelated page-cell rules, dark-field wear and neighboring motif fragments excluded; original source-visible terminations retained without repainting or inventing full circles.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 686,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original cream printed arched lace with eight point stars and small roundels, with the dark printed field removed. Part of the Latomus lace patterns set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "petal",
+      "roundel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "arched-lace-with-eight-point-stars-and-small-roundels",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/arched-lace-with-eight-point-stars-and-small-roundels.png",
+    "webp": "webp/arched-lace-with-eight-point-stars-and-small-roundels.webp",
+    "width": 714,
+    "height": 642,
+    "png_bytes": 187084,
+    "webp_bytes": 110610,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/arched-lace-with-eight-point-stars-and-small-roundels.png",
+        "webp": "webp/128/arched-lace-with-eight-point-stars-and-small-roundels.webp",
+        "width": 128,
+        "height": 115,
+        "png_bytes": 25545,
+        "webp_bytes": 12472
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/arched-lace-with-eight-point-stars-and-small-roundels.png",
+        "webp": "webp/256/arched-lace-with-eight-point-stars-and-small-roundels.webp",
+        "width": 256,
+        "height": 230,
+        "png_bytes": 82807,
+        "webp_bytes": 40002
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/arched-lace-with-eight-point-stars-and-small-roundels.png",
+        "webp": "webp/512/arched-lace-with-eight-point-stars-and-small-roundels.webp",
+        "width": 512,
+        "height": 460,
+        "png_bytes": 257513,
+        "webp_bytes": 137838
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source light-line polarity retained. Dark printed field is transparent, including actual openings. Original source-limited arched ends and cell geometry retained; no full missing circle is invented and no seamless period inferred. PNG master represents measured cream line coverage, not pixel-exact RGB or an inverted modern drawing. Whole subject bounds expanded before native alpha extraction. Unrelated page-cell rules, dark-field wear and neighboring motif fragments excluded; original source-visible terminations retained without repainting or inventing full circles.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 714,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original cream printed arched lace with four floral diamonds, with the dark printed field removed. Part of the Latomus lace patterns set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "petal",
+      "roundel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "arched-lace-with-four-floral-diamonds",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/arched-lace-with-four-floral-diamonds.png",
+    "webp": "webp/arched-lace-with-four-floral-diamonds.webp",
+    "width": 697,
+    "height": 605,
+    "png_bytes": 149812,
+    "webp_bytes": 86304,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/arched-lace-with-four-floral-diamonds.png",
+        "webp": "webp/128/arched-lace-with-four-floral-diamonds.webp",
+        "width": 128,
+        "height": 111,
+        "png_bytes": 23090,
+        "webp_bytes": 10864
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/arched-lace-with-four-floral-diamonds.png",
+        "webp": "webp/256/arched-lace-with-four-floral-diamonds.webp",
+        "width": 256,
+        "height": 222,
+        "png_bytes": 73211,
+        "webp_bytes": 34356
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/arched-lace-with-four-floral-diamonds.png",
+        "webp": "webp/512/arched-lace-with-four-floral-diamonds.webp",
+        "width": 512,
+        "height": 444,
+        "png_bytes": 220951,
+        "webp_bytes": 116544
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source light-line polarity retained. Dark printed field is transparent, including actual openings. Original source-limited arched ends and cell geometry retained; no full missing circle is invented and no seamless period inferred. PNG master represents measured cream line coverage, not pixel-exact RGB or an inverted modern drawing. Whole subject bounds expanded before native alpha extraction. Unrelated page-cell rules, dark-field wear and neighboring motif fragments excluded; original source-visible terminations retained without repainting or inventing full circles.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 697,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original cream printed arched lace with large petalled flower, with the dark printed field removed. Part of the Latomus lace patterns set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "petal",
+      "roundel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "arched-lace-with-large-petalled-flower",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/arched-lace-with-large-petalled-flower.png",
+    "webp": "webp/arched-lace-with-large-petalled-flower.webp",
+    "width": 689,
+    "height": 620,
+    "png_bytes": 176565,
+    "webp_bytes": 102808,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/arched-lace-with-large-petalled-flower.png",
+        "webp": "webp/128/arched-lace-with-large-petalled-flower.webp",
+        "width": 128,
+        "height": 115,
+        "png_bytes": 28563,
+        "webp_bytes": 13244
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/arched-lace-with-large-petalled-flower.png",
+        "webp": "webp/256/arched-lace-with-large-petalled-flower.webp",
+        "width": 256,
+        "height": 230,
+        "png_bytes": 88274,
+        "webp_bytes": 41854
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/arched-lace-with-large-petalled-flower.png",
+        "webp": "webp/512/arched-lace-with-large-petalled-flower.webp",
+        "width": 512,
+        "height": 461,
+        "png_bytes": 263688,
+        "webp_bytes": 140946
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source light-line polarity retained. Dark printed field is transparent, including actual openings. Original source-limited arched ends and cell geometry retained; no full missing circle is invented and no seamless period inferred. PNG master represents measured cream line coverage, not pixel-exact RGB or an inverted modern drawing. Whole subject bounds expanded before native alpha extraction. Unrelated page-cell rules, dark-field wear and neighboring motif fragments excluded; original source-visible terminations retained without repainting or inventing full circles.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 689,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original cream printed arched lace with radiating spokes and pointed petals, with the dark printed field removed. Part of the Latomus lace patterns set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "petal",
+      "roundel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "arched-lace-with-radiating-spokes-and-pointed-petals",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/arched-lace-with-radiating-spokes-and-pointed-petals.png",
+    "webp": "webp/arched-lace-with-radiating-spokes-and-pointed-petals.webp",
+    "width": 638,
+    "height": 536,
+    "png_bytes": 134230,
+    "webp_bytes": 78460,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/arched-lace-with-radiating-spokes-and-pointed-petals.png",
+        "webp": "webp/128/arched-lace-with-radiating-spokes-and-pointed-petals.webp",
+        "width": 128,
+        "height": 108,
+        "png_bytes": 23281,
+        "webp_bytes": 11254
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/arched-lace-with-radiating-spokes-and-pointed-petals.png",
+        "webp": "webp/256/arched-lace-with-radiating-spokes-and-pointed-petals.webp",
+        "width": 256,
+        "height": 215,
+        "png_bytes": 75560,
+        "webp_bytes": 36232
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/arched-lace-with-radiating-spokes-and-pointed-petals.png",
+        "webp": "webp/512/arched-lace-with-radiating-spokes-and-pointed-petals.webp",
+        "width": 512,
+        "height": 430,
+        "png_bytes": 230836,
+        "webp_bytes": 125244
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source light-line polarity retained. Dark printed field is transparent, including actual openings. Original source-limited arched ends and cell geometry retained; no full missing circle is invented and no seamless period inferred. PNG master represents measured cream line coverage, not pixel-exact RGB or an inverted modern drawing. Whole subject bounds expanded before native alpha extraction. Unrelated page-cell rules, dark-field wear and neighboring motif fragments excluded; original source-visible terminations retained without repainting or inventing full circles.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 638,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two bearded winged grotesque heads join curling stems and broad folded leaves in one connected frieze. Part of the Hopfer Ten Friezes set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "mask",
+      "beard",
+      "wing",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "bearded-winged-masks-with-curled-leaf-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-399648",
+    "png": "png/bearded-winged-masks-with-curled-leaf-scroll.png",
+    "webp": "webp/bearded-winged-masks-with-curled-leaf-scroll.webp",
+    "width": 2398,
+    "height": 362,
+    "png_bytes": 911595,
+    "webp_bytes": 514138,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/bearded-winged-masks-with-curled-leaf-scroll.png",
+        "webp": "webp/128/bearded-winged-masks-with-curled-leaf-scroll.webp",
+        "width": 128,
+        "height": 19,
+        "png_bytes": 5510,
+        "webp_bytes": 3158
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/bearded-winged-masks-with-curled-leaf-scroll.png",
+        "webp": "webp/256/bearded-winged-masks-with-curled-leaf-scroll.webp",
+        "width": 256,
+        "height": 39,
+        "png_bytes": 20495,
+        "webp_bytes": 10260
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/bearded-winged-masks-with-curled-leaf-scroll.png",
+        "webp": "webp/512/bearded-winged-masks-with-curled-leaf-scroll.webp",
+        "width": 512,
+        "height": 77,
+        "png_bytes": 67275,
+        "webp_bytes": 34102
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/bearded-winged-masks-with-curled-leaf-scroll.png",
+        "webp": "webp/768/bearded-winged-masks-with-curled-leaf-scroll.webp",
+        "width": 768,
+        "height": 116,
+        "png_bytes": 139630,
+        "webp_bytes": 73150
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Designs for Ten Decorative Friezes",
+      "object_identifier": "2012.136.734",
+      "date": "ca. 1515",
+      "artist": "Daniel Hopfer",
+      "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Hopfer Ten Friezes set. Original native engraving rigidly straightened using its printed horizontal rules. Independently inspected vertical page-cell end rules removed, preserving adjacent heads, wings, leaves and tips. Missing/faint horizontal rule columns narrowly completed using neighboring original ink profiles, retaining the hand-printed texture and slight natural line variation. Original figure/ornament interiors preserved without stretch or redraw. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-399648-set",
+        "name": "Hopfer Ten Friezes"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2539,
+      "height": 3944
+    },
+    "master_longest_dimension_cap": 2398,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A winged Cupid physically holding two crouching lions, their bodies flowing into the surrounding curled acanthus frieze. Part of the Cupid and Four Seasons acanthus friezes set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "cupid",
+      "putto",
+      "lion",
+      "wing",
+      "acanthus",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "cupid-subduing-two-lions-in-acanthus-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-377606",
+    "png": "png/cupid-subduing-two-lions-in-acanthus-scroll.png",
+    "webp": "webp/cupid-subduing-two-lions-in-acanthus-scroll.webp",
+    "width": 3707,
+    "height": 636,
+    "png_bytes": 1622499,
+    "webp_bytes": 1143138,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/cupid-subduing-two-lions-in-acanthus-scroll.png",
+        "webp": "webp/128/cupid-subduing-two-lions-in-acanthus-scroll.webp",
+        "width": 128,
+        "height": 22,
+        "png_bytes": 7940,
+        "webp_bytes": 3918
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/cupid-subduing-two-lions-in-acanthus-scroll.png",
+        "webp": "webp/256/cupid-subduing-two-lions-in-acanthus-scroll.webp",
+        "width": 256,
+        "height": 44,
+        "png_bytes": 29823,
+        "webp_bytes": 13342
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/cupid-subduing-two-lions-in-acanthus-scroll.png",
+        "webp": "webp/512/cupid-subduing-two-lions-in-acanthus-scroll.webp",
+        "width": 512,
+        "height": 88,
+        "png_bytes": 109136,
+        "webp_bytes": 47574
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/cupid-subduing-two-lions-in-acanthus-scroll.png",
+        "webp": "webp/768/cupid-subduing-two-lions-in-acanthus-scroll.webp",
+        "width": 768,
+        "height": 132,
+        "png_bytes": 227319,
+        "webp_bytes": 101868
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Two Acanthus Friezes: Cupid Subduing Two Lions; Heads of Four Seasons, plate 14 from \"Decorative friezes and foliage\" (Ornamenti di fregi e fogliami)",
+      "object_identifier": "1986.1180.647",
+      "date": "ca. 1648",
+      "artist": "Stefano della Bella",
+      "record_url": "https://www.metmuseum.org/art/collection/search/377606",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "9020e8352e0e7a2650ca954694e65f17df7449415f682ace658d372b8f7c7291",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native ink appearance retained with continuous transparency. This finite original ornament establishes no seamless period; no repeat or corner atlas inferred. SVG withheld where tracing alters the source print grain.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-377606-set",
+        "name": "Cupid and Four Seasons acanthus friezes"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3992,
+      "height": 1430
+    },
+    "master_longest_dimension_cap": 3707,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A connected scrolling frieze with a horned dragon head at one end, a long bearded grotesque mask at the other, and a looped featherlike central form. Part of the Hopfer Ten Friezes set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "dragon",
+      "horn",
+      "mask",
+      "beard",
+      "scroll",
+      "wing"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "dragon-head-scroll-with-long-bearded-mask",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-399648",
+    "png": "png/dragon-head-scroll-with-long-bearded-mask.png",
+    "webp": "webp/dragon-head-scroll-with-long-bearded-mask.webp",
+    "width": 2396,
+    "height": 405,
+    "png_bytes": 1026499,
+    "webp_bytes": 563362,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/dragon-head-scroll-with-long-bearded-mask.png",
+        "webp": "webp/128/dragon-head-scroll-with-long-bearded-mask.webp",
+        "width": 128,
+        "height": 22,
+        "png_bytes": 7005,
+        "webp_bytes": 3722
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/dragon-head-scroll-with-long-bearded-mask.png",
+        "webp": "webp/256/dragon-head-scroll-with-long-bearded-mask.webp",
+        "width": 256,
+        "height": 43,
+        "png_bytes": 24766,
+        "webp_bytes": 11788
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/dragon-head-scroll-with-long-bearded-mask.png",
+        "webp": "webp/512/dragon-head-scroll-with-long-bearded-mask.webp",
+        "width": 512,
+        "height": 87,
+        "png_bytes": 80416,
+        "webp_bytes": 39522
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/dragon-head-scroll-with-long-bearded-mask.png",
+        "webp": "webp/768/dragon-head-scroll-with-long-bearded-mask.webp",
+        "width": 768,
+        "height": 130,
+        "png_bytes": 163289,
+        "webp_bytes": 81564
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Designs for Ten Decorative Friezes",
+      "object_identifier": "2012.136.734",
+      "date": "ca. 1515",
+      "artist": "Daniel Hopfer",
+      "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Hopfer Ten Friezes set. Original native engraving rigidly straightened using its printed horizontal rules. Independently inspected vertical page-cell end rules removed, preserving adjacent heads, wings, leaves and tips. Missing/faint horizontal rule columns narrowly completed using neighboring original ink profiles, retaining the hand-printed texture and slight natural line variation. Original figure/ornament interiors preserved without stretch or redraw. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-399648-set",
+        "name": "Hopfer Ten Friezes"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2539,
+      "height": 3944
+    },
+    "master_longest_dimension_cap": 2396,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A foliate face beneath two curling scrolls, with paired birds perching on connected architectural branches and hanging ornaments. Part of the Du Cerceau birdcage grotesques set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "face",
+      "bird",
+      "leaf",
+      "scroll",
+      "tassel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "foliate-face-with-paired-perching-birds",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-338721",
+    "png": "png/foliate-face-with-paired-perching-birds.png",
+    "webp": "webp/foliate-face-with-paired-perching-birds.webp",
+    "width": 1001,
+    "height": 544,
+    "png_bytes": 313282,
+    "webp_bytes": 193454,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/foliate-face-with-paired-perching-birds.png",
+        "webp": "webp/128/foliate-face-with-paired-perching-birds.webp",
+        "width": 128,
+        "height": 70,
+        "png_bytes": 18227,
+        "webp_bytes": 7850
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/foliate-face-with-paired-perching-birds.png",
+        "webp": "webp/256/foliate-face-with-paired-perching-birds.webp",
+        "width": 256,
+        "height": 139,
+        "png_bytes": 53236,
+        "webp_bytes": 23630
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/foliate-face-with-paired-perching-birds.png",
+        "webp": "webp/512/foliate-face-with-paired-perching-birds.webp",
+        "width": 512,
+        "height": 278,
+        "png_bytes": 168779,
+        "webp_bytes": 77246
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/foliate-face-with-paired-perching-birds.png",
+        "webp": "webp/768/foliate-face-with-paired-perching-birds.webp",
+        "width": 768,
+        "height": 417,
+        "png_bytes": 340822,
+        "webp_bytes": 160822
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Grotesque Ornament Panel, from \"Livre de Grotesques...\"",
+      "object_identifier": "49.95.321",
+      "date": "1566",
+      "artist": "Jacques Androuet Du Cerceau",
+      "record_url": "https://www.metmuseum.org/art/collection/search/338721",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite engraved composition retained with its source-supported outside plate rules. Clipped rules recovered from adjacent original scan pixels; faint thin-rule gaps narrowly completed with neighboring native ink profiles where recorded. Decorative hatch bands retain original print wear. No generic replacement frame or repeat is inferred. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-338721-set",
+        "name": "Du Cerceau birdcage grotesques"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4000,
+      "height": 2788
+    },
+    "master_longest_dimension_cap": 1001,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Four heads representing the seasons among a connected acanthus frieze, a blank curled cartouche and a wreath containing weighing scales. Part of the Cupid and Four Seasons acanthus friezes set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "head",
+      "season",
+      "acanthus",
+      "leaf",
+      "scroll",
+      "cartouche",
+      "wreath",
+      "scales"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "four-season-heads-in-acanthus-frieze",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-377606",
+    "png": "png/four-season-heads-in-acanthus-frieze.png",
+    "webp": "webp/four-season-heads-in-acanthus-frieze.webp",
+    "width": 3678,
+    "height": 439,
+    "png_bytes": 1146573,
+    "webp_bytes": 806982,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/four-season-heads-in-acanthus-frieze.png",
+        "webp": "webp/128/four-season-heads-in-acanthus-frieze.webp",
+        "width": 128,
+        "height": 15,
+        "png_bytes": 5293,
+        "webp_bytes": 2840
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/four-season-heads-in-acanthus-frieze.png",
+        "webp": "webp/256/four-season-heads-in-acanthus-frieze.webp",
+        "width": 256,
+        "height": 31,
+        "png_bytes": 20855,
+        "webp_bytes": 9558
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/four-season-heads-in-acanthus-frieze.png",
+        "webp": "webp/512/four-season-heads-in-acanthus-frieze.webp",
+        "width": 512,
+        "height": 61,
+        "png_bytes": 75057,
+        "webp_bytes": 33158
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/four-season-heads-in-acanthus-frieze.png",
+        "webp": "webp/768/four-season-heads-in-acanthus-frieze.webp",
+        "width": 768,
+        "height": 92,
+        "png_bytes": 158594,
+        "webp_bytes": 71552
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Two Acanthus Friezes: Cupid Subduing Two Lions; Heads of Four Seasons, plate 14 from \"Decorative friezes and foliage\" (Ornamenti di fregi e fogliami)",
+      "object_identifier": "1986.1180.647",
+      "date": "ca. 1648",
+      "artist": "Stefano della Bella",
+      "record_url": "https://www.metmuseum.org/art/collection/search/377606",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "9020e8352e0e7a2650ca954694e65f17df7449415f682ace658d372b8f7c7291",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native ink appearance retained with continuous transparency. This finite original ornament establishes no seamless period; no repeat or corner atlas inferred. SVG withheld where tracing alters the source print grain.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-377606-set",
+        "name": "Cupid and Four Seasons acanthus friezes"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3992,
+      "height": 1430
+    },
+    "master_longest_dimension_cap": 3678,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A tall native grotesque with garlanded upper birds, two musicians, a central winged mask, paired lower figures and narrow original figure friezes.",
+    "categories": [
+      "animals",
+      "humans",
+      "hybrids",
+      "music",
+      "floral"
+    ],
+    "subjects": [
+      "bird",
+      "garland",
+      "musician",
+      "mask",
+      "figure",
+      "frieze"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "garlanded-grotesque-with-birds-musicians-and-central-mask",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-387675",
+    "png": "png/garlanded-grotesque-with-birds-musicians-and-central-mask.png",
+    "webp": "webp/garlanded-grotesque-with-birds-musicians-and-central-mask.webp",
+    "width": 2206,
+    "height": 3421,
+    "png_bytes": 4048625,
+    "webp_bytes": 2462416,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/garlanded-grotesque-with-birds-musicians-and-central-mask.png",
+        "webp": "webp/128/garlanded-grotesque-with-birds-musicians-and-central-mask.webp",
+        "width": 83,
+        "height": 128,
+        "png_bytes": 29297,
+        "webp_bytes": 11496
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/garlanded-grotesque-with-birds-musicians-and-central-mask.png",
+        "webp": "webp/256/garlanded-grotesque-with-birds-musicians-and-central-mask.webp",
+        "width": 165,
+        "height": 256,
+        "png_bytes": 100280,
+        "webp_bytes": 39382
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/garlanded-grotesque-with-birds-musicians-and-central-mask.png",
+        "webp": "webp/512/garlanded-grotesque-with-birds-musicians-and-central-mask.webp",
+        "width": 330,
+        "height": 512,
+        "png_bytes": 317317,
+        "webp_bytes": 134952
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/garlanded-grotesque-with-birds-musicians-and-central-mask.png",
+        "webp": "webp/768/garlanded-grotesque-with-birds-musicians-and-central-mask.webp",
+        "width": 495,
+        "height": 768,
+        "png_bytes": 627601,
+        "webp_bytes": 281146
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Grotesque Panel",
+      "object_identifier": "23.34.2(28)",
+      "date": "1562",
+      "artist": "Jacques Androuet Du Cerceau",
+      "record_url": "https://www.metmuseum.org/art/collection/search/387675",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "e74b911019cd57d483a7d342aae79e8dc14c8397e4653a8224ef69b36631370f",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213859.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite engraved composition retained with its source-supported outside plate rules. Clipped rules recovered from adjacent original scan pixels; faint thin-rule gaps narrowly completed with neighboring native ink profiles where recorded. Decorative hatch bands retain original print wear. No generic replacement frame or repeat is inferred. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2282,
+      "height": 3479
+    },
+    "master_longest_dimension_cap": 3421,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A connected grapevine frieze with two grape bunches, broad lobed leaves and a tied central loop. Part of the Hopfer Ten Friezes set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "grape",
+      "vine",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "grape-and-lobed-leaf-scroll-with-central-tie",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-399648",
+    "png": "png/grape-and-lobed-leaf-scroll-with-central-tie.png",
+    "webp": "webp/grape-and-lobed-leaf-scroll-with-central-tie.webp",
+    "width": 2399,
+    "height": 349,
+    "png_bytes": 906119,
+    "webp_bytes": 512664,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/grape-and-lobed-leaf-scroll-with-central-tie.png",
+        "webp": "webp/128/grape-and-lobed-leaf-scroll-with-central-tie.webp",
+        "width": 128,
+        "height": 19,
+        "png_bytes": 6027,
+        "webp_bytes": 3316
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/grape-and-lobed-leaf-scroll-with-central-tie.png",
+        "webp": "webp/256/grape-and-lobed-leaf-scroll-with-central-tie.webp",
+        "width": 256,
+        "height": 37,
+        "png_bytes": 20094,
+        "webp_bytes": 10248
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/grape-and-lobed-leaf-scroll-with-central-tie.png",
+        "webp": "webp/512/grape-and-lobed-leaf-scroll-with-central-tie.webp",
+        "width": 512,
+        "height": 74,
+        "png_bytes": 66173,
+        "webp_bytes": 34428
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/grape-and-lobed-leaf-scroll-with-central-tie.png",
+        "webp": "webp/768/grape-and-lobed-leaf-scroll-with-central-tie.webp",
+        "width": 768,
+        "height": 112,
+        "png_bytes": 138027,
+        "webp_bytes": 73060
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Designs for Ten Decorative Friezes",
+      "object_identifier": "2012.136.734",
+      "date": "ca. 1515",
+      "artist": "Daniel Hopfer",
+      "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Hopfer Ten Friezes set. Original native engraving rigidly straightened using its printed horizontal rules. Independently inspected vertical page-cell end rules removed, preserving adjacent heads, wings, leaves and tips. Missing/faint horizontal rule columns narrowly completed using neighboring original ink profiles, retaining the hand-printed texture and slight natural line variation. Original figure/ornament interiors preserved without stretch or redraw. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-399648-set",
+        "name": "Hopfer Ten Friezes"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2539,
+      "height": 3944
+    },
+    "master_longest_dimension_cap": 2399,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A native engraved grotesque architecture with bird canopies, a central winged figure, paired hybrids and six framed scenes above four lower figure niches. Part of the Du Cerceau bird-canopy architecture set.",
+    "categories": [
+      "hybrids",
+      "humans",
+      "animals",
+      "floral"
+    ],
+    "subjects": [
+      "bird",
+      "canopy",
+      "hybrid",
+      "figure",
+      "frame",
+      "niche"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "grotesque-architecture-with-bird-canopies-and-framed-scenes",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-387622",
+    "png": "png/grotesque-architecture-with-bird-canopies-and-framed-scenes.png",
+    "webp": "webp/grotesque-architecture-with-bird-canopies-and-framed-scenes.webp",
+    "width": 2042,
+    "height": 3096,
+    "png_bytes": 3737472,
+    "webp_bytes": 2366474,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/grotesque-architecture-with-bird-canopies-and-framed-scenes.png",
+        "webp": "webp/128/grotesque-architecture-with-bird-canopies-and-framed-scenes.webp",
+        "width": 84,
+        "height": 128,
+        "png_bytes": 26593,
+        "webp_bytes": 12032
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/grotesque-architecture-with-bird-canopies-and-framed-scenes.png",
+        "webp": "webp/256/grotesque-architecture-with-bird-canopies-and-framed-scenes.webp",
+        "width": 169,
+        "height": 256,
+        "png_bytes": 90859,
+        "webp_bytes": 41426
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/grotesque-architecture-with-bird-canopies-and-framed-scenes.png",
+        "webp": "webp/512/grotesque-architecture-with-bird-canopies-and-framed-scenes.webp",
+        "width": 338,
+        "height": 512,
+        "png_bytes": 300131,
+        "webp_bytes": 143104
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/grotesque-architecture-with-bird-canopies-and-framed-scenes.png",
+        "webp": "webp/768/grotesque-architecture-with-bird-canopies-and-framed-scenes.webp",
+        "width": 507,
+        "height": 768,
+        "png_bytes": 609316,
+        "webp_bytes": 301570
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Grotesque Panel",
+      "object_identifier": "21.10.1(31)",
+      "date": "1550",
+      "artist": "Jacques Androuet Du Cerceau",
+      "record_url": "https://www.metmuseum.org/art/collection/search/387622",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "54c6b3852c207f744aa2ee86447b0c751dcd85782331a219b6d401f0a79caa79",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213858.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite engraved composition retained with its source-supported outside plate rules. Clipped rules recovered from adjacent original scan pixels; faint thin-rule gaps narrowly completed with neighboring native ink profiles where recorded. Decorative hatch bands retain original print wear. No generic replacement frame or repeat is inferred. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-387622-set",
+        "name": "Du Cerceau bird-canopy architecture"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2114,
+      "height": 3168
+    },
+    "master_longest_dimension_cap": 3096,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A complete native grotesque candelabrum with upper satyrs, garlands, a child on a hybrid boat, winged masks, facing griffins and musicians.",
+    "categories": [
+      "hybrids",
+      "humans",
+      "music",
+      "floral"
+    ],
+    "subjects": [
+      "satyr",
+      "garland",
+      "child",
+      "griffin",
+      "musician",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "grotesque-candelabrum-with-satyrs-griffins-and-music",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-387623",
+    "png": "png/grotesque-candelabrum-with-satyrs-griffins-and-music.png",
+    "webp": "webp/grotesque-candelabrum-with-satyrs-griffins-and-music.webp",
+    "width": 2255,
+    "height": 3385,
+    "png_bytes": 4050431,
+    "webp_bytes": 2715314,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/grotesque-candelabrum-with-satyrs-griffins-and-music.png",
+        "webp": "webp/128/grotesque-candelabrum-with-satyrs-griffins-and-music.webp",
+        "width": 85,
+        "height": 128,
+        "png_bytes": 29973,
+        "webp_bytes": 12082
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/grotesque-candelabrum-with-satyrs-griffins-and-music.png",
+        "webp": "webp/256/grotesque-candelabrum-with-satyrs-griffins-and-music.webp",
+        "width": 171,
+        "height": 256,
+        "png_bytes": 101218,
+        "webp_bytes": 41132
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/grotesque-candelabrum-with-satyrs-griffins-and-music.png",
+        "webp": "webp/512/grotesque-candelabrum-with-satyrs-griffins-and-music.webp",
+        "width": 341,
+        "height": 512,
+        "png_bytes": 332079,
+        "webp_bytes": 142484
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/grotesque-candelabrum-with-satyrs-griffins-and-music.png",
+        "webp": "webp/768/grotesque-candelabrum-with-satyrs-griffins-and-music.webp",
+        "width": 512,
+        "height": 768,
+        "png_bytes": 668341,
+        "webp_bytes": 301908
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Panel from \"Petites Grotesques\"",
+      "object_identifier": "21.10.1(18)",
+      "date": "1550",
+      "artist": "Jacques Androuet Du Cerceau",
+      "record_url": "https://www.metmuseum.org/art/collection/search/387623",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "00652f9a018333c138582aa1e308c4b5f5ef73715531f2f91d2857fc5bbef0f6",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213856.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete original candelabrum retained with all four original thin plate rules. The former extraction rectangle clipped the left/bottom rule; surrounding original source pixels now restore it. Rule texture and mild original perspective retained, with unchanged native interior drawing and measured source ink tone. No generic replacement rectangle. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2322,
+      "height": 3464
+    },
+    "master_longest_dimension_cap": 3385,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite architectural grotesque ornament with paired perched birds, canopy scrolls, hanging cages, tassels and a framed miniature. Part of the Du Cerceau birdcage grotesques set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "bird",
+      "canopy",
+      "cage",
+      "tassel",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "grotesque-canopy-with-birds-and-suspended-miniature",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-338721",
+    "png": "png/grotesque-canopy-with-birds-and-suspended-miniature.png",
+    "webp": "webp/grotesque-canopy-with-birds-and-suspended-miniature.webp",
+    "width": 1004,
+    "height": 535,
+    "png_bytes": 253594,
+    "webp_bytes": 151734,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/grotesque-canopy-with-birds-and-suspended-miniature.png",
+        "webp": "webp/128/grotesque-canopy-with-birds-and-suspended-miniature.webp",
+        "width": 128,
+        "height": 68,
+        "png_bytes": 15978,
+        "webp_bytes": 7060
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/grotesque-canopy-with-birds-and-suspended-miniature.png",
+        "webp": "webp/256/grotesque-canopy-with-birds-and-suspended-miniature.webp",
+        "width": 256,
+        "height": 136,
+        "png_bytes": 46400,
+        "webp_bytes": 20702
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/grotesque-canopy-with-birds-and-suspended-miniature.png",
+        "webp": "webp/512/grotesque-canopy-with-birds-and-suspended-miniature.webp",
+        "width": 512,
+        "height": 273,
+        "png_bytes": 139802,
+        "webp_bytes": 64360
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/grotesque-canopy-with-birds-and-suspended-miniature.png",
+        "webp": "webp/768/grotesque-canopy-with-birds-and-suspended-miniature.webp",
+        "width": 768,
+        "height": 409,
+        "png_bytes": 280970,
+        "webp_bytes": 132786
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Grotesque Ornament Panel, from \"Livre de Grotesques...\"",
+      "object_identifier": "49.95.321",
+      "date": "1566",
+      "artist": "Jacques Androuet Du Cerceau",
+      "record_url": "https://www.metmuseum.org/art/collection/search/338721",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite engraved composition retained with its source-supported outside plate rules. Clipped rules recovered from adjacent original scan pixels; faint thin-rule gaps narrowly completed with neighboring native ink profiles where recorded. Decorative hatch bands retain original print wear. No generic replacement frame or repeat is inferred. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-338721-set",
+        "name": "Du Cerceau birdcage grotesques"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4000,
+      "height": 2788
+    },
+    "master_longest_dimension_cap": 1004,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A complete native grotesque panel of twisting vines, winged hybrids, a hoofed animal standing on a scroll, small figures, a central canopy and framed miniature.",
+    "categories": [
+      "hybrids",
+      "humans",
+      "animals",
+      "floral"
+    ],
+    "subjects": [
+      "hybrid",
+      "vine",
+      "figure",
+      "canopy",
+      "frame"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "grotesque-vines-with-winged-hybrids-and-figure-canopies",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-387624",
+    "png": "png/grotesque-vines-with-winged-hybrids-and-figure-canopies.png",
+    "webp": "webp/grotesque-vines-with-winged-hybrids-and-figure-canopies.webp",
+    "width": 2226,
+    "height": 3423,
+    "png_bytes": 4466606,
+    "webp_bytes": 2659446,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/grotesque-vines-with-winged-hybrids-and-figure-canopies.png",
+        "webp": "webp/128/grotesque-vines-with-winged-hybrids-and-figure-canopies.webp",
+        "width": 83,
+        "height": 128,
+        "png_bytes": 30656,
+        "webp_bytes": 12032
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/grotesque-vines-with-winged-hybrids-and-figure-canopies.png",
+        "webp": "webp/256/grotesque-vines-with-winged-hybrids-and-figure-canopies.webp",
+        "width": 166,
+        "height": 256,
+        "png_bytes": 107129,
+        "webp_bytes": 41736
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/grotesque-vines-with-winged-hybrids-and-figure-canopies.png",
+        "webp": "webp/512/grotesque-vines-with-winged-hybrids-and-figure-canopies.webp",
+        "width": 333,
+        "height": 512,
+        "png_bytes": 347522,
+        "webp_bytes": 144426
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/grotesque-vines-with-winged-hybrids-and-figure-canopies.png",
+        "webp": "webp/768/grotesque-vines-with-winged-hybrids-and-figure-canopies.webp",
+        "width": 499,
+        "height": 768,
+        "png_bytes": 685293,
+        "webp_bytes": 301110
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Panel from \"Petites Grotesques\"",
+      "object_identifier": "21.10.1(30)",
+      "date": "1550",
+      "artist": "Jacques Androuet Du Cerceau",
+      "record_url": "https://www.metmuseum.org/art/collection/search/387624",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "41f749f08b98f0b4d598a3a2037c9f986f163ef8b8152ec30a67b91c51f30b44",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213857.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite engraved composition retained with its source-supported outside plate rules. Clipped rules recovered from adjacent original scan pixels; faint thin-rule gaps narrowly completed with neighboring native ink profiles where recorded. Decorative hatch bands retain original print wear. No generic replacement frame or repeat is inferred. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2238,
+      "height": 3451
+    },
+    "master_longest_dimension_cap": 3423,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A complete architectural ornament with paired curling hybrids, foliate stalks, suspended garlands and a central miniature framed scene. Part of the Du Cerceau birdcage grotesques set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "hybrid",
+      "garland",
+      "leaf",
+      "scroll",
+      "frame"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "grotesque-with-paired-curled-hybrids-and-framed-scene",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-338721",
+    "png": "png/grotesque-with-paired-curled-hybrids-and-framed-scene.png",
+    "webp": "webp/grotesque-with-paired-curled-hybrids-and-framed-scene.webp",
+    "width": 1733,
+    "height": 1318,
+    "png_bytes": 1248824,
+    "webp_bytes": 759918,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/grotesque-with-paired-curled-hybrids-and-framed-scene.png",
+        "webp": "webp/128/grotesque-with-paired-curled-hybrids-and-framed-scene.webp",
+        "width": 128,
+        "height": 97,
+        "png_bytes": 25820,
+        "webp_bytes": 11020
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/grotesque-with-paired-curled-hybrids-and-framed-scene.png",
+        "webp": "webp/256/grotesque-with-paired-curled-hybrids-and-framed-scene.webp",
+        "width": 256,
+        "height": 195,
+        "png_bytes": 83021,
+        "webp_bytes": 35940
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/grotesque-with-paired-curled-hybrids-and-framed-scene.png",
+        "webp": "webp/512/grotesque-with-paired-curled-hybrids-and-framed-scene.webp",
+        "width": 512,
+        "height": 389,
+        "png_bytes": 255827,
+        "webp_bytes": 115734
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/grotesque-with-paired-curled-hybrids-and-framed-scene.png",
+        "webp": "webp/768/grotesque-with-paired-curled-hybrids-and-framed-scene.webp",
+        "width": 768,
+        "height": 584,
+        "png_bytes": 508661,
+        "webp_bytes": 231440
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Grotesque Ornament Panel, from \"Livre de Grotesques...\"",
+      "object_identifier": "49.95.321",
+      "date": "1566",
+      "artist": "Jacques Androuet Du Cerceau",
+      "record_url": "https://www.metmuseum.org/art/collection/search/338721",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite engraved composition retained with its source-supported outside plate rules. Clipped rules recovered from adjacent original scan pixels; faint thin-rule gaps narrowly completed with neighboring native ink profiles where recorded. Decorative hatch bands retain original print wear. No generic replacement frame or repeat is inferred. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-338721-set",
+        "name": "Du Cerceau birdcage grotesques"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4000,
+      "height": 2788
+    },
+    "master_longest_dimension_cap": 1733,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A hanging cream rosette with a small bell-shaped lower finial. Part of the Latomus lace patterns set.",
+    "categories": [
+      "floral",
+      "geometric"
+    ],
+    "subjects": [
+      "lace",
+      "rosette",
+      "bell",
+      "finial"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "hanging-rosette-and-bell-finial",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/hanging-rosette-and-bell-finial.png",
+    "webp": "webp/hanging-rosette-and-bell-finial.webp",
+    "width": 230,
+    "height": 213,
+    "png_bytes": 15667,
+    "webp_bytes": 8680,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/hanging-rosette-and-bell-finial.png",
+        "webp": "webp/128/hanging-rosette-and-bell-finial.webp",
+        "width": 128,
+        "height": 119,
+        "png_bytes": 14059,
+        "webp_bytes": 7840
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Finite source-visible hanging rosette and bell finial. Its upper edge ends at the original sheet division; no hidden top half reconstructed. Measured cream light-line continuous alpha, no seamless period inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 230,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A horned dragon with a birdlike feathered body and a long curled tail flowing into a flowering scroll. Part of the Hopfer Ten Friezes set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "dragon",
+      "horn",
+      "wing",
+      "flower",
+      "scroll"
+    ],
+    "facing": "left",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "horned-dragon-with-flowering-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-399648",
+    "png": "png/horned-dragon-with-flowering-scroll.png",
+    "webp": "webp/horned-dragon-with-flowering-scroll.webp",
+    "width": 2401,
+    "height": 376,
+    "png_bytes": 955862,
+    "webp_bytes": 531022,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/horned-dragon-with-flowering-scroll.png",
+        "webp": "webp/128/horned-dragon-with-flowering-scroll.webp",
+        "width": 128,
+        "height": 20,
+        "png_bytes": 6254,
+        "webp_bytes": 3386
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/horned-dragon-with-flowering-scroll.png",
+        "webp": "webp/256/horned-dragon-with-flowering-scroll.webp",
+        "width": 256,
+        "height": 40,
+        "png_bytes": 22142,
+        "webp_bytes": 11020
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/horned-dragon-with-flowering-scroll.png",
+        "webp": "webp/512/horned-dragon-with-flowering-scroll.webp",
+        "width": 512,
+        "height": 80,
+        "png_bytes": 73068,
+        "webp_bytes": 36264
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/horned-dragon-with-flowering-scroll.png",
+        "webp": "webp/768/horned-dragon-with-flowering-scroll.webp",
+        "width": 768,
+        "height": 120,
+        "png_bytes": 145695,
+        "webp_bytes": 75036
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Designs for Ten Decorative Friezes",
+      "object_identifier": "2012.136.734",
+      "date": "ca. 1515",
+      "artist": "Daniel Hopfer",
+      "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Hopfer Ten Friezes set. Original native engraving rigidly straightened using its printed horizontal rules. Independently inspected vertical page-cell end rules removed, preserving adjacent heads, wings, leaves and tips. Missing/faint horizontal rule columns narrowly completed using neighboring original ink profiles, retaining the hand-printed texture and slight natural line variation. Original figure/ornament interiors preserved without stretch or redraw. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-399648-set",
+        "name": "Hopfer Ten Friezes"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2539,
+      "height": 3944
+    },
+    "master_longest_dimension_cap": 2401,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Paired horned hybrids and bears in a complete curling foliate cartouche frame, with original title lettering removed.",
+    "categories": [
+      "animals",
+      "hybrids",
+      "floral"
+    ],
+    "subjects": [
+      "hybrid",
+      "bear",
+      "leaf",
+      "scroll",
+      "cartouche"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "horned-hybrids-and-bears-in-foliate-cartouche-frame",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-411963",
+    "png": "png/horned-hybrids-and-bears-in-foliate-cartouche-frame.png",
+    "webp": "webp/horned-hybrids-and-bears-in-foliate-cartouche-frame.webp",
+    "width": 3539,
+    "height": 941,
+    "png_bytes": 1950935,
+    "webp_bytes": 1183450,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/horned-hybrids-and-bears-in-foliate-cartouche-frame.png",
+        "webp": "webp/128/horned-hybrids-and-bears-in-foliate-cartouche-frame.webp",
+        "width": 128,
+        "height": 34,
+        "png_bytes": 11582,
+        "webp_bytes": 5320
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/horned-hybrids-and-bears-in-foliate-cartouche-frame.png",
+        "webp": "webp/256/horned-hybrids-and-bears-in-foliate-cartouche-frame.webp",
+        "width": 256,
+        "height": 68,
+        "png_bytes": 44207,
+        "webp_bytes": 17984
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/horned-hybrids-and-bears-in-foliate-cartouche-frame.png",
+        "webp": "webp/512/horned-hybrids-and-bears-in-foliate-cartouche-frame.webp",
+        "width": 512,
+        "height": 136,
+        "png_bytes": 151690,
+        "webp_bytes": 63316
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/horned-hybrids-and-bears-in-foliate-cartouche-frame.png",
+        "webp": "webp/768/horned-hybrids-and-bears-in-foliate-cartouche-frame.webp",
+        "width": 768,
+        "height": 204,
+        "png_bytes": 305946,
+        "webp_bytes": 131786
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Disegni Varij di Polifilo Zancarli (Friezes)",
+      "object_identifier": "49.20.13(1)",
+      "date": "ca. 1625",
+      "artist": "Polifilo Giancarli",
+      "record_url": "https://www.metmuseum.org/art/collection/search/411963",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "9e558c75f3b032a3004725c5b0fa9f312d080f2de7538ed163943a0f7e89fad2",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833104.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native ink appearance retained with continuous transparency. This finite original ornament establishes no seamless period; no repeat or corner atlas inferred. SVG withheld where tracing alters the source print grain.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3969,
+      "height": 1207
+    },
+    "master_longest_dimension_cap": 3539,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An inverted triangular lace ornament with crossed stems and a central six-petalled flower. Part of the Latomus lace patterns set.",
+    "categories": [
+      "floral",
+      "geometric"
+    ],
+    "subjects": [
+      "lace",
+      "triangle",
+      "flower",
+      "stem"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "inverted-lattice-floral-triangle",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/inverted-lattice-floral-triangle.png",
+    "webp": "webp/inverted-lattice-floral-triangle.webp",
+    "width": 252,
+    "height": 212,
+    "png_bytes": 22381,
+    "webp_bytes": 12864,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/inverted-lattice-floral-triangle.png",
+        "webp": "webp/128/inverted-lattice-floral-triangle.webp",
+        "width": 128,
+        "height": 108,
+        "png_bytes": 16981,
+        "webp_bytes": 9244
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native visible triangle; source-defined flat upper termination retained. Repeated elsewhere on the sheet; this cleaner impression selected, alternative occurrence not exported. Neighboring semicircular motifs excluded.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 252,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Back-to-back bearded male heads connect to curling horns and flower-bearing tendrils in one ornamental frieze. Part of the Hopfer Ten Friezes set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "person",
+      "beard",
+      "horn",
+      "flower",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "paired-bearded-heads-with-horns-and-flowers",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-399648",
+    "png": "png/paired-bearded-heads-with-horns-and-flowers.png",
+    "webp": "webp/paired-bearded-heads-with-horns-and-flowers.webp",
+    "width": 2399,
+    "height": 357,
+    "png_bytes": 956500,
+    "webp_bytes": 540116,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/paired-bearded-heads-with-horns-and-flowers.png",
+        "webp": "webp/128/paired-bearded-heads-with-horns-and-flowers.webp",
+        "width": 128,
+        "height": 19,
+        "png_bytes": 6006,
+        "webp_bytes": 3368
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/paired-bearded-heads-with-horns-and-flowers.png",
+        "webp": "webp/256/paired-bearded-heads-with-horns-and-flowers.webp",
+        "width": 256,
+        "height": 38,
+        "png_bytes": 20809,
+        "webp_bytes": 10784
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/paired-bearded-heads-with-horns-and-flowers.png",
+        "webp": "webp/512/paired-bearded-heads-with-horns-and-flowers.webp",
+        "width": 512,
+        "height": 76,
+        "png_bytes": 69423,
+        "webp_bytes": 35172
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/paired-bearded-heads-with-horns-and-flowers.png",
+        "webp": "webp/768/paired-bearded-heads-with-horns-and-flowers.webp",
+        "width": 768,
+        "height": 114,
+        "png_bytes": 140872,
+        "webp_bytes": 74322
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Designs for Ten Decorative Friezes",
+      "object_identifier": "2012.136.734",
+      "date": "ca. 1515",
+      "artist": "Daniel Hopfer",
+      "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Hopfer Ten Friezes set. Original native engraving rigidly straightened using its printed horizontal rules. Independently inspected vertical page-cell end rules removed, preserving adjacent heads, wings, leaves and tips. Missing/faint horizontal rule columns narrowly completed using neighboring original ink profiles, retaining the hand-printed texture and slight natural line variation. Original figure/ornament interiors preserved without stretch or redraw. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-399648-set",
+        "name": "Hopfer Ten Friezes"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2539,
+      "height": 3944
+    },
+    "master_longest_dimension_cap": 2399,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two horned animal heads and feathered scroll bodies flank two flowers in one connected foliate frieze. Part of the Hopfer Ten Friezes set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "horn",
+      "grotesque",
+      "wing",
+      "flower",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "paired-horned-creatures-and-twin-flower-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-399648",
+    "png": "png/paired-horned-creatures-and-twin-flower-scroll.png",
+    "webp": "webp/paired-horned-creatures-and-twin-flower-scroll.webp",
+    "width": 2396,
+    "height": 364,
+    "png_bytes": 1034973,
+    "webp_bytes": 584448,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/paired-horned-creatures-and-twin-flower-scroll.png",
+        "webp": "webp/128/paired-horned-creatures-and-twin-flower-scroll.webp",
+        "width": 128,
+        "height": 19,
+        "png_bytes": 5928,
+        "webp_bytes": 3414
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/paired-horned-creatures-and-twin-flower-scroll.png",
+        "webp": "webp/256/paired-horned-creatures-and-twin-flower-scroll.webp",
+        "width": 256,
+        "height": 39,
+        "png_bytes": 21391,
+        "webp_bytes": 11146
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/paired-horned-creatures-and-twin-flower-scroll.png",
+        "webp": "webp/512/paired-horned-creatures-and-twin-flower-scroll.webp",
+        "width": 512,
+        "height": 78,
+        "png_bytes": 71621,
+        "webp_bytes": 37112
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/paired-horned-creatures-and-twin-flower-scroll.png",
+        "webp": "webp/768/paired-horned-creatures-and-twin-flower-scroll.webp",
+        "width": 768,
+        "height": 117,
+        "png_bytes": 151060,
+        "webp_bytes": 80196
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Designs for Ten Decorative Friezes",
+      "object_identifier": "2012.136.734",
+      "date": "ca. 1515",
+      "artist": "Daniel Hopfer",
+      "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Hopfer Ten Friezes set. Original native engraving rigidly straightened using its printed horizontal rules. Independently inspected vertical page-cell end rules removed, preserving adjacent heads, wings, leaves and tips. Missing/faint horizontal rule columns narrowly completed using neighboring original ink profiles, retaining the hand-printed texture and slight natural line variation. Original figure/ornament interiors preserved without stretch or redraw. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-399648-set",
+        "name": "Hopfer Ten Friezes"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2539,
+      "height": 3944
+    },
+    "master_longest_dimension_cap": 2396,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two human-headed winged birds join a central tied scroll; their curled tails and foliage form one connected frieze. Part of the Hopfer Ten Friezes set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "bird",
+      "person",
+      "grotesque",
+      "wing",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "paired-human-headed-birds-with-tied-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-399648",
+    "png": "png/paired-human-headed-birds-with-tied-scroll.png",
+    "webp": "webp/paired-human-headed-birds-with-tied-scroll.webp",
+    "width": 2397,
+    "height": 378,
+    "png_bytes": 1020837,
+    "webp_bytes": 571128,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/paired-human-headed-birds-with-tied-scroll.png",
+        "webp": "webp/128/paired-human-headed-birds-with-tied-scroll.webp",
+        "width": 128,
+        "height": 20,
+        "png_bytes": 6202,
+        "webp_bytes": 3530
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/paired-human-headed-birds-with-tied-scroll.png",
+        "webp": "webp/256/paired-human-headed-birds-with-tied-scroll.webp",
+        "width": 256,
+        "height": 40,
+        "png_bytes": 21901,
+        "webp_bytes": 11354
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/paired-human-headed-birds-with-tied-scroll.png",
+        "webp": "webp/512/paired-human-headed-birds-with-tied-scroll.webp",
+        "width": 512,
+        "height": 81,
+        "png_bytes": 74831,
+        "webp_bytes": 37682
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/paired-human-headed-birds-with-tied-scroll.png",
+        "webp": "webp/768/paired-human-headed-birds-with-tied-scroll.webp",
+        "width": 768,
+        "height": 121,
+        "png_bytes": 151786,
+        "webp_bytes": 79770
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Designs for Ten Decorative Friezes",
+      "object_identifier": "2012.136.734",
+      "date": "ca. 1515",
+      "artist": "Daniel Hopfer",
+      "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Hopfer Ten Friezes set. Original native engraving rigidly straightened using its printed horizontal rules. Independently inspected vertical page-cell end rules removed, preserving adjacent heads, wings, leaves and tips. Missing/faint horizontal rule columns narrowly completed using neighboring original ink profiles, retaining the hand-printed texture and slight natural line variation. Original figure/ornament interiors preserved without stretch or redraw. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-399648-set",
+        "name": "Hopfer Ten Friezes"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2539,
+      "height": 3944
+    },
+    "master_longest_dimension_cap": 2397,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two crouching winged horned beasts connect through curling tails to a central frontal human face, with two small flower ornaments above. Part of the Hopfer Ten Friezes set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "grotesque",
+      "horn",
+      "wing",
+      "person",
+      "flower",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "paired-winged-beasts-with-central-face",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-399648",
+    "png": "png/paired-winged-beasts-with-central-face.png",
+    "webp": "webp/paired-winged-beasts-with-central-face.webp",
+    "width": 2397,
+    "height": 377,
+    "png_bytes": 882745,
+    "webp_bytes": 498522,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/paired-winged-beasts-with-central-face.png",
+        "webp": "webp/128/paired-winged-beasts-with-central-face.webp",
+        "width": 128,
+        "height": 20,
+        "png_bytes": 5656,
+        "webp_bytes": 3248
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/paired-winged-beasts-with-central-face.png",
+        "webp": "webp/256/paired-winged-beasts-with-central-face.webp",
+        "width": 256,
+        "height": 40,
+        "png_bytes": 18530,
+        "webp_bytes": 9966
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/paired-winged-beasts-with-central-face.png",
+        "webp": "webp/512/paired-winged-beasts-with-central-face.webp",
+        "width": 512,
+        "height": 81,
+        "png_bytes": 60595,
+        "webp_bytes": 32888
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/paired-winged-beasts-with-central-face.png",
+        "webp": "webp/768/paired-winged-beasts-with-central-face.webp",
+        "width": 768,
+        "height": 121,
+        "png_bytes": 125390,
+        "webp_bytes": 69734
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Designs for Ten Decorative Friezes",
+      "object_identifier": "2012.136.734",
+      "date": "ca. 1515",
+      "artist": "Daniel Hopfer",
+      "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Hopfer Ten Friezes set. Original native engraving rigidly straightened using its printed horizontal rules. Independently inspected vertical page-cell end rules removed, preserving adjacent heads, wings, leaves and tips. Missing/faint horizontal rule columns narrowly completed using neighboring original ink profiles, retaining the hand-printed texture and slight natural line variation. Original figure/ornament interiors preserved without stretch or redraw. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-399648-set",
+        "name": "Hopfer Ten Friezes"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2539,
+      "height": 3944
+    },
+    "master_longest_dimension_cap": 2397,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two winged putti hold the same bowl within one connected ornamental scroll with curled leaves and trumpet-shaped flowers. Part of the Hopfer Ten Friezes set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "putto",
+      "wing",
+      "bowl",
+      "scroll",
+      "flower"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "paired-winged-putti-holding-bowl-in-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-399648",
+    "png": "png/paired-winged-putti-holding-bowl-in-scroll.png",
+    "webp": "webp/paired-winged-putti-holding-bowl-in-scroll.webp",
+    "width": 2394,
+    "height": 386,
+    "png_bytes": 891015,
+    "webp_bytes": 495410,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/paired-winged-putti-holding-bowl-in-scroll.png",
+        "webp": "webp/128/paired-winged-putti-holding-bowl-in-scroll.webp",
+        "width": 128,
+        "height": 21,
+        "png_bytes": 5801,
+        "webp_bytes": 3330
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/paired-winged-putti-holding-bowl-in-scroll.png",
+        "webp": "webp/256/paired-winged-putti-holding-bowl-in-scroll.webp",
+        "width": 256,
+        "height": 41,
+        "png_bytes": 19257,
+        "webp_bytes": 9944
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/paired-winged-putti-holding-bowl-in-scroll.png",
+        "webp": "webp/512/paired-winged-putti-holding-bowl-in-scroll.webp",
+        "width": 512,
+        "height": 83,
+        "png_bytes": 65274,
+        "webp_bytes": 33302
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/paired-winged-putti-holding-bowl-in-scroll.png",
+        "webp": "webp/768/paired-winged-putti-holding-bowl-in-scroll.webp",
+        "width": 768,
+        "height": 124,
+        "png_bytes": 134177,
+        "webp_bytes": 70828
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Designs for Ten Decorative Friezes",
+      "object_identifier": "2012.136.734",
+      "date": "ca. 1515",
+      "artist": "Daniel Hopfer",
+      "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Hopfer Ten Friezes set. Original native engraving rigidly straightened using its printed horizontal rules. Independently inspected vertical page-cell end rules removed, preserving adjacent heads, wings, leaves and tips. Missing/faint horizontal rule columns narrowly completed using neighboring original ink profiles, retaining the hand-printed texture and slight natural line variation. Original figure/ornament interiors preserved without stretch or redraw. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-399648-set",
+        "name": "Hopfer Ten Friezes"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2539,
+      "height": 3944
+    },
+    "master_longest_dimension_cap": 2394,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original cream printed small lace roundel with eight point star, with the dark printed field removed. Part of the Latomus lace patterns set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "petal",
+      "roundel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "small-lace-roundel-with-eight-point-star",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/small-lace-roundel-with-eight-point-star.png",
+    "webp": "webp/small-lace-roundel-with-eight-point-star.webp",
+    "width": 276,
+    "height": 268,
+    "png_bytes": 53298,
+    "webp_bytes": 32118,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/small-lace-roundel-with-eight-point-star.png",
+        "webp": "webp/128/small-lace-roundel-with-eight-point-star.webp",
+        "width": 128,
+        "height": 124,
+        "png_bytes": 35635,
+        "webp_bytes": 18420
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/small-lace-roundel-with-eight-point-star.png",
+        "webp": "webp/256/small-lace-roundel-with-eight-point-star.webp",
+        "width": 256,
+        "height": 249,
+        "png_bytes": 113723,
+        "webp_bytes": 64664
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source light-line polarity retained. Dark printed field is transparent, including actual openings. Original source-limited arched ends and cell geometry retained; no full missing circle is invented and no seamless period inferred. PNG master represents measured cream line coverage, not pixel-exact RGB or an inverted modern drawing.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 276,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A small cream triangular lace finial with curling branches. Part of the Latomus lace patterns set.",
+    "categories": [
+      "floral",
+      "geometric"
+    ],
+    "subjects": [
+      "lace",
+      "finial",
+      "branch"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "small-triangular-fleur-finial",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/small-triangular-fleur-finial.png",
+    "webp": "webp/small-triangular-fleur-finial.webp",
+    "width": 104,
+    "height": 110,
+    "png_bytes": 5375,
+    "webp_bytes": 3054,
+    "variants": [],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native ink appearance retained with continuous transparency. This finite original ornament establishes no seamless period; no repeat or corner atlas inferred. SVG withheld where tracing alters the source print grain.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 110,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An engraved dagger-sheath ornament with a helmeted soldier profile, fruit and narrow curled foliage.",
+    "categories": [
+      "humans",
+      "floral"
+    ],
+    "subjects": [
+      "helmet",
+      "head",
+      "fruit",
+      "leaf",
+      "scroll",
+      "sheath"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "soldier-profile-in-fruiting-dagger-sheath",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-422496",
+    "png": "png/soldier-profile-in-fruiting-dagger-sheath.png",
+    "webp": "webp/soldier-profile-in-fruiting-dagger-sheath.webp",
+    "width": 483,
+    "height": 2148,
+    "png_bytes": 1567051,
+    "webp_bytes": 1016888,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/soldier-profile-in-fruiting-dagger-sheath.png",
+        "webp": "webp/128/soldier-profile-in-fruiting-dagger-sheath.webp",
+        "width": 29,
+        "height": 128,
+        "png_bytes": 11067,
+        "webp_bytes": 6624
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/soldier-profile-in-fruiting-dagger-sheath.png",
+        "webp": "webp/256/soldier-profile-in-fruiting-dagger-sheath.webp",
+        "width": 58,
+        "height": 256,
+        "png_bytes": 36394,
+        "webp_bytes": 21586
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/soldier-profile-in-fruiting-dagger-sheath.png",
+        "webp": "webp/512/soldier-profile-in-fruiting-dagger-sheath.webp",
+        "width": 115,
+        "height": 512,
+        "png_bytes": 116913,
+        "webp_bytes": 72964
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/soldier-profile-in-fruiting-dagger-sheath.png",
+        "webp": "webp/768/soldier-profile-in-fruiting-dagger-sheath.webp",
+        "width": 173,
+        "height": 768,
+        "png_bytes": 238913,
+        "webp_bytes": 152182
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Dagger Sheath with Profile of a Soldier Supported by Tendrils",
+      "object_identifier": "32.123.2",
+      "date": "1535",
+      "artist": "Heinrich Aldegrever",
+      "record_url": "https://www.metmuseum.org/art/collection/search/422496",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "1f80447a8ad6f3907fe09163bcbc25d063f90238a77a538c0cc710ac1fcdc527",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP836756.jpg",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 881,
+      "height": 3899
+    },
+    "master_longest_dimension_cap": 2148,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A tall candelabrum with paired sphinxes, cornucopias, masks and curled leaves.",
+    "categories": [
+      "hybrids",
+      "floral"
+    ],
+    "subjects": [
+      "sphinx",
+      "cornucopia",
+      "mask",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "sphinxes-and-cornucopias-in-tall-candelabrum",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-422500",
+    "png": "png/sphinxes-and-cornucopias-in-tall-candelabrum.png",
+    "webp": "webp/sphinxes-and-cornucopias-in-tall-candelabrum.webp",
+    "width": 731,
+    "height": 2025,
+    "png_bytes": 3463849,
+    "webp_bytes": 2295666,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/sphinxes-and-cornucopias-in-tall-candelabrum.png",
+        "webp": "webp/128/sphinxes-and-cornucopias-in-tall-candelabrum.webp",
+        "width": 46,
+        "height": 128,
+        "png_bytes": 21523,
+        "webp_bytes": 14046
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/sphinxes-and-cornucopias-in-tall-candelabrum.png",
+        "webp": "webp/256/sphinxes-and-cornucopias-in-tall-candelabrum.webp",
+        "width": 92,
+        "height": 256,
+        "png_bytes": 79148,
+        "webp_bytes": 49592
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/sphinxes-and-cornucopias-in-tall-candelabrum.png",
+        "webp": "webp/512/sphinxes-and-cornucopias-in-tall-candelabrum.webp",
+        "width": 185,
+        "height": 512,
+        "png_bytes": 276654,
+        "webp_bytes": 180254
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/sphinxes-and-cornucopias-in-tall-candelabrum.png",
+        "webp": "webp/768/sphinxes-and-cornucopias-in-tall-candelabrum.webp",
+        "width": 277,
+        "height": 768,
+        "png_bytes": 576791,
+        "webp_bytes": 364622
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Vertical Panel with Candelabrum Grotesques Containing Cornucopias and Sphinxes",
+      "object_identifier": "27.23.79",
+      "date": "1552",
+      "artist": "Heinrich Aldegrever",
+      "record_url": "https://www.metmuseum.org/art/collection/search/422500",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "ba1b440a570b5eacbbc57e7a6cb995cb86485514c48eb1e801f3176b77181574",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP836785.jpg",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 1478,
+      "height": 3932
+    },
+    "master_longest_dimension_cap": 2025,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A cream square lace cell with a four-pointed star and diagonal corner ties. Part of the Latomus lace patterns set.",
+    "categories": [
+      "floral",
+      "geometric"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "square"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "square-four-pointed-star-lace-cell",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/square-four-pointed-star-lace-cell.png",
+    "webp": "webp/square-four-pointed-star-lace-cell.webp",
+    "width": 152,
+    "height": 145,
+    "png_bytes": 15284,
+    "webp_bytes": 9266,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/square-four-pointed-star-lace-cell.png",
+        "webp": "webp/128/square-four-pointed-star-lace-cell.webp",
+        "width": 128,
+        "height": 122,
+        "png_bytes": 28372,
+        "webp_bytes": 16470
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete square corner cell retained with its intrinsic cream rule and star. Larger partial copies hanging from sheet divisions are redundant and were skipped. Neighboring different cells do not establish a seamless period; kept as a finite decoration.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 152,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original cream printed square lace with concentric cross and star corners, with the dark printed field removed. Part of the Latomus lace patterns set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "petal",
+      "roundel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "square-lace-with-concentric-cross-and-star-corners",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/square-lace-with-concentric-cross-and-star-corners.png",
+    "webp": "webp/square-lace-with-concentric-cross-and-star-corners.webp",
+    "width": 593,
+    "height": 557,
+    "png_bytes": 201244,
+    "webp_bytes": 123716,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/square-lace-with-concentric-cross-and-star-corners.png",
+        "webp": "webp/128/square-lace-with-concentric-cross-and-star-corners.webp",
+        "width": 128,
+        "height": 120,
+        "png_bytes": 41200,
+        "webp_bytes": 18820
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/square-lace-with-concentric-cross-and-star-corners.png",
+        "webp": "webp/256/square-lace-with-concentric-cross-and-star-corners.webp",
+        "width": 256,
+        "height": 240,
+        "png_bytes": 129506,
+        "webp_bytes": 63140
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/square-lace-with-concentric-cross-and-star-corners.png",
+        "webp": "webp/512/square-lace-with-concentric-cross-and-star-corners.webp",
+        "width": 512,
+        "height": 481,
+        "png_bytes": 388586,
+        "webp_bytes": 212986
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source light-line polarity retained. Dark printed field is transparent, including actual openings. Original source-limited arched ends and cell geometry retained; no full missing circle is invented and no seamless period inferred. PNG master represents measured cream line coverage, not pixel-exact RGB or an inverted modern drawing.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 593,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original cream printed square lace with radiating petals and triangle fans, with the dark printed field removed. Part of the Latomus lace patterns set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "petal",
+      "roundel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "square-lace-with-radiating-petals-and-triangle-fans",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/square-lace-with-radiating-petals-and-triangle-fans.png",
+    "webp": "webp/square-lace-with-radiating-petals-and-triangle-fans.webp",
+    "width": 606,
+    "height": 557,
+    "png_bytes": 196434,
+    "webp_bytes": 121546,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/square-lace-with-radiating-petals-and-triangle-fans.png",
+        "webp": "webp/128/square-lace-with-radiating-petals-and-triangle-fans.webp",
+        "width": 128,
+        "height": 118,
+        "png_bytes": 39145,
+        "webp_bytes": 18100
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/square-lace-with-radiating-petals-and-triangle-fans.png",
+        "webp": "webp/256/square-lace-with-radiating-petals-and-triangle-fans.webp",
+        "width": 256,
+        "height": 235,
+        "png_bytes": 122557,
+        "webp_bytes": 59728
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/square-lace-with-radiating-petals-and-triangle-fans.png",
+        "webp": "webp/512/square-lace-with-radiating-petals-and-triangle-fans.webp",
+        "width": 512,
+        "height": 471,
+        "png_bytes": 367628,
+        "webp_bytes": 203932
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source light-line polarity retained. Dark printed field is transparent, including actual openings. Original source-limited arched ends and cell geometry retained; no full missing circle is invented and no seamless period inferred. PNG master represents measured cream line coverage, not pixel-exact RGB or an inverted modern drawing.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 606,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original cream printed square lace with six looped petal medallion, with the dark printed field removed. Part of the Latomus lace patterns set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "petal",
+      "roundel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "square-lace-with-six-looped-petal-medallion",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/square-lace-with-six-looped-petal-medallion.png",
+    "webp": "webp/square-lace-with-six-looped-petal-medallion.webp",
+    "width": 590,
+    "height": 552,
+    "png_bytes": 204101,
+    "webp_bytes": 125078,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/square-lace-with-six-looped-petal-medallion.png",
+        "webp": "webp/128/square-lace-with-six-looped-petal-medallion.webp",
+        "width": 128,
+        "height": 120,
+        "png_bytes": 37987,
+        "webp_bytes": 18476
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/square-lace-with-six-looped-petal-medallion.png",
+        "webp": "webp/256/square-lace-with-six-looped-petal-medallion.webp",
+        "width": 256,
+        "height": 240,
+        "png_bytes": 126251,
+        "webp_bytes": 62028
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/square-lace-with-six-looped-petal-medallion.png",
+        "webp": "webp/512/square-lace-with-six-looped-petal-medallion.webp",
+        "width": 512,
+        "height": 479,
+        "png_bytes": 396538,
+        "webp_bytes": 215532
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source light-line polarity retained. Dark printed field is transparent, including actual openings. Original source-limited arched ends and cell geometry retained; no full missing circle is invented and no seamless period inferred. PNG master represents measured cream line coverage, not pixel-exact RGB or an inverted modern drawing.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 590,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original cream printed square lace with triangle star and small oval petals, with the dark printed field removed. Part of the Latomus lace patterns set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "lace",
+      "star",
+      "petal",
+      "roundel"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "square-lace-with-triangle-star-and-small-oval-petals",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/square-lace-with-triangle-star-and-small-oval-petals.png",
+    "webp": "webp/square-lace-with-triangle-star-and-small-oval-petals.webp",
+    "width": 571,
+    "height": 554,
+    "png_bytes": 229575,
+    "webp_bytes": 141504,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/square-lace-with-triangle-star-and-small-oval-petals.png",
+        "webp": "webp/128/square-lace-with-triangle-star-and-small-oval-petals.webp",
+        "width": 128,
+        "height": 124,
+        "png_bytes": 42111,
+        "webp_bytes": 20896
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/square-lace-with-triangle-star-and-small-oval-petals.png",
+        "webp": "webp/256/square-lace-with-triangle-star-and-small-oval-petals.webp",
+        "width": 256,
+        "height": 248,
+        "png_bytes": 140183,
+        "webp_bytes": 71196
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/square-lace-with-triangle-star-and-small-oval-petals.png",
+        "webp": "webp/512/square-lace-with-triangle-star-and-small-oval-petals.webp",
+        "width": 512,
+        "height": 497,
+        "png_bytes": 454758,
+        "webp_bytes": 254932
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source light-line polarity retained. Dark printed field is transparent, including actual openings. Original source-limited arched ends and cell geometry retained; no full missing circle is invented and no seamless period inferred. PNG master represents measured cream line coverage, not pixel-exact RGB or an inverted modern drawing.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 571,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A suspended cream foliate roundel with pointed lower leaf finials. Part of the Latomus lace patterns set.",
+    "categories": [
+      "floral",
+      "geometric"
+    ],
+    "subjects": [
+      "lace",
+      "roundel",
+      "leaf",
+      "finial"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "suspended-foliate-roundel",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-368267",
+    "png": "png/suspended-foliate-roundel.png",
+    "webp": "webp/suspended-foliate-roundel.webp",
+    "width": 359,
+    "height": 269,
+    "png_bytes": 33545,
+    "webp_bytes": 18972,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/suspended-foliate-roundel.png",
+        "webp": "webp/128/suspended-foliate-roundel.webp",
+        "width": 128,
+        "height": 96,
+        "png_bytes": 15648,
+        "webp_bytes": 8080
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/suspended-foliate-roundel.png",
+        "webp": "webp/256/suspended-foliate-roundel.webp",
+        "width": 256,
+        "height": 192,
+        "png_bytes": 45891,
+        "webp_bytes": 25048
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schon newes Modelbuch...Page 1(r)",
+      "object_identifier": "53.600.8(1r)",
+      "date": "1617",
+      "artist": "Sigismundus Latomus",
+      "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole source-visible suspended ornament with upper edge honestly terminating at the original plate rule. Neighboring arched motifs excluded. No invented missing upper portion or seamless repeat.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-368267-set",
+        "name": "Latomus lace patterns"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3752,
+      "height": 2471
+    },
+    "master_longest_dimension_cap": 359,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A tall connected canopy ornament with suspended draperies, a central framed figure, foliate masks, smoking urns, tassels and a winged lower mask. Part of the Du Cerceau birdcage grotesques set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "canopy",
+      "person",
+      "mask",
+      "wing",
+      "urn",
+      "tassel",
+      "leaf"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "tall-canopy-with-framed-figure-and-winged-mask",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-338721",
+    "png": "png/tall-canopy-with-framed-figure-and-winged-mask.png",
+    "webp": "webp/tall-canopy-with-framed-figure-and-winged-mask.webp",
+    "width": 998,
+    "height": 1992,
+    "png_bytes": 1082170,
+    "webp_bytes": 647326,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/tall-canopy-with-framed-figure-and-winged-mask.png",
+        "webp": "webp/128/tall-canopy-with-framed-figure-and-winged-mask.webp",
+        "width": 64,
+        "height": 128,
+        "png_bytes": 18705,
+        "webp_bytes": 7918
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/tall-canopy-with-framed-figure-and-winged-mask.png",
+        "webp": "webp/256/tall-canopy-with-framed-figure-and-winged-mask.webp",
+        "width": 128,
+        "height": 256,
+        "png_bytes": 60966,
+        "webp_bytes": 26032
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/tall-canopy-with-framed-figure-and-winged-mask.png",
+        "webp": "webp/512/tall-canopy-with-framed-figure-and-winged-mask.webp",
+        "width": 257,
+        "height": 512,
+        "png_bytes": 185370,
+        "webp_bytes": 82626
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/tall-canopy-with-framed-figure-and-winged-mask.png",
+        "webp": "webp/768/tall-canopy-with-framed-figure-and-winged-mask.webp",
+        "width": 385,
+        "height": 768,
+        "png_bytes": 359268,
+        "webp_bytes": 164318
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Grotesque Ornament Panel, from \"Livre de Grotesques...\"",
+      "object_identifier": "49.95.321",
+      "date": "1566",
+      "artist": "Jacques Androuet Du Cerceau",
+      "record_url": "https://www.metmuseum.org/art/collection/search/338721",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite engraved composition retained with its source-supported outside plate rules. Clipped rules recovered from adjacent original scan pixels; faint thin-rule gaps narrowly completed with neighboring native ink profiles where recorded. Decorative hatch bands retain original print wear. No generic replacement frame or repeat is inferred. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-338721-set",
+        "name": "Du Cerceau birdcage grotesques"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4000,
+      "height": 2788
+    },
+    "master_longest_dimension_cap": 1992,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A tall grotesque candelabrum with paired satyrs, winged masks, burning cups and narrow hanging ornaments.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "satyr",
+      "mask",
+      "wing",
+      "candelabrum",
+      "scroll",
+      "flame"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "tall-grotesque-candelabrum-with-paired-satyrs",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-399650",
+    "png": "png/tall-grotesque-candelabrum-with-paired-satyrs.png",
+    "webp": "webp/tall-grotesque-candelabrum-with-paired-satyrs.webp",
+    "width": 1048,
+    "height": 3616,
+    "png_bytes": 2887119,
+    "webp_bytes": 1692542,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/tall-grotesque-candelabrum-with-paired-satyrs.png",
+        "webp": "webp/128/tall-grotesque-candelabrum-with-paired-satyrs.webp",
+        "width": 37,
+        "height": 128,
+        "png_bytes": 11491,
+        "webp_bytes": 5708
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/tall-grotesque-candelabrum-with-paired-satyrs.png",
+        "webp": "webp/256/tall-grotesque-candelabrum-with-paired-satyrs.webp",
+        "width": 74,
+        "height": 256,
+        "png_bytes": 42888,
+        "webp_bytes": 19730
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/tall-grotesque-candelabrum-with-paired-satyrs.png",
+        "webp": "webp/512/tall-grotesque-candelabrum-with-paired-satyrs.webp",
+        "width": 148,
+        "height": 512,
+        "png_bytes": 153556,
+        "webp_bytes": 71948
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/tall-grotesque-candelabrum-with-paired-satyrs.png",
+        "webp": "webp/768/tall-grotesque-candelabrum-with-paired-satyrs.webp",
+        "width": 223,
+        "height": 768,
+        "png_bytes": 319358,
+        "webp_bytes": 154894
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Candelabra Grotesque",
+      "object_identifier": "2012.136.735",
+      "date": "ca. 1485–1536",
+      "artist": "Daniel Hopfer",
+      "record_url": "https://www.metmuseum.org/art/collection/search/399650",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "ef794d7bb70b14391ef57fb4063cacc89ab8862a24a44b562662da18ffe34e41",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828559.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Remove inspected plate-edge fragments and stray paper marks in blank outer regions; preserve the engraved base, figures and all interior ink without resampling. Coordinates recorded in a 700px-wide review grid and mapped exactly to native pixels. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 1152,
+      "height": 3742
+    },
+    "master_longest_dimension_cap": 3616,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A complete tall architectural grotesque ornament with paired dragons, griffins, foliate candelabra, hanging strands and a small framed vignette. Part of the Du Cerceau birdcage grotesques set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "dragon",
+      "griffin",
+      "leaf",
+      "scroll",
+      "candelabrum"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "tall-grotesque-with-dragons-and-paired-griffins",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-338721",
+    "png": "png/tall-grotesque-with-dragons-and-paired-griffins.png",
+    "webp": "webp/tall-grotesque-with-dragons-and-paired-griffins.webp",
+    "width": 998,
+    "height": 2004,
+    "png_bytes": 1133692,
+    "webp_bytes": 685878,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/tall-grotesque-with-dragons-and-paired-griffins.png",
+        "webp": "webp/128/tall-grotesque-with-dragons-and-paired-griffins.webp",
+        "width": 64,
+        "height": 128,
+        "png_bytes": 19166,
+        "webp_bytes": 7988
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/tall-grotesque-with-dragons-and-paired-griffins.png",
+        "webp": "webp/256/tall-grotesque-with-dragons-and-paired-griffins.webp",
+        "width": 127,
+        "height": 256,
+        "png_bytes": 61807,
+        "webp_bytes": 26130
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/tall-grotesque-with-dragons-and-paired-griffins.png",
+        "webp": "webp/512/tall-grotesque-with-dragons-and-paired-griffins.webp",
+        "width": 255,
+        "height": 512,
+        "png_bytes": 191910,
+        "webp_bytes": 84048
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/tall-grotesque-with-dragons-and-paired-griffins.png",
+        "webp": "webp/768/tall-grotesque-with-dragons-and-paired-griffins.webp",
+        "width": 382,
+        "height": 768,
+        "png_bytes": 368624,
+        "webp_bytes": 166620
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Grotesque Ornament Panel, from \"Livre de Grotesques...\"",
+      "object_identifier": "49.95.321",
+      "date": "1566",
+      "artist": "Jacques Androuet Du Cerceau",
+      "record_url": "https://www.metmuseum.org/art/collection/search/338721",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite engraved composition retained with its source-supported outside plate rules. Clipped rules recovered from adjacent original scan pixels; faint thin-rule gaps narrowly completed with neighboring native ink profiles where recorded. Decorative hatch bands retain original print wear. No generic replacement frame or repeat is inferred. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-338721-set",
+        "name": "Du Cerceau birdcage grotesques"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4000,
+      "height": 2788
+    },
+    "master_longest_dimension_cap": 2004,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two boys holding a connected leafy acanthus scroll.",
+    "categories": [
+      "humans",
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "boy",
+      "acanthus",
+      "leaf",
+      "vine"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "two-boys-with-connected-acanthus-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-422498",
+    "png": "png/two-boys-with-connected-acanthus-scroll.png",
+    "webp": "webp/two-boys-with-connected-acanthus-scroll.webp",
+    "width": 1952,
+    "height": 802,
+    "png_bytes": 3113926,
+    "webp_bytes": 1991890,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/two-boys-with-connected-acanthus-scroll.png",
+        "webp": "webp/128/two-boys-with-connected-acanthus-scroll.webp",
+        "width": 128,
+        "height": 53,
+        "png_bytes": 23884,
+        "webp_bytes": 15648
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/two-boys-with-connected-acanthus-scroll.png",
+        "webp": "webp/256/two-boys-with-connected-acanthus-scroll.webp",
+        "width": 256,
+        "height": 105,
+        "png_bytes": 81798,
+        "webp_bytes": 51346
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/two-boys-with-connected-acanthus-scroll.png",
+        "webp": "webp/512/two-boys-with-connected-acanthus-scroll.webp",
+        "width": 512,
+        "height": 210,
+        "png_bytes": 273381,
+        "webp_bytes": 172382
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/two-boys-with-connected-acanthus-scroll.png",
+        "webp": "webp/768/two-boys-with-connected-acanthus-scroll.webp",
+        "width": 768,
+        "height": 316,
+        "png_bytes": 570567,
+        "webp_bytes": 355098
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Horizontal Panel with Two Nude Boys Surrounded by Tendrils",
+      "object_identifier": "27.23.78",
+      "date": "1549",
+      "artist": "Heinrich Aldegrever",
+      "record_url": "https://www.metmuseum.org/art/collection/search/422498",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "19337006e4bc7a078d95b294ba85a88c244a23dde9334ed919cc34036f9ab08e",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP836790.jpg",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3774,
+      "height": 1636
+    },
+    "master_longest_dimension_cap": 1952,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two contacting satyr couples around a tall leafy candelabrum with garlands.",
+    "categories": [
+      "hybrids",
+      "humans",
+      "floral"
+    ],
+    "subjects": [
+      "satyr",
+      "garland",
+      "leaf",
+      "scroll",
+      "candelabrum"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "two-satyr-couples-on-foliate-candelabrum",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-399020",
+    "png": "png/two-satyr-couples-on-foliate-candelabrum.png",
+    "webp": "webp/two-satyr-couples-on-foliate-candelabrum.webp",
+    "width": 830,
+    "height": 1752,
+    "png_bytes": 3471875,
+    "webp_bytes": 2224818,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/two-satyr-couples-on-foliate-candelabrum.png",
+        "webp": "webp/128/two-satyr-couples-on-foliate-candelabrum.webp",
+        "width": 61,
+        "height": 128,
+        "png_bytes": 26844,
+        "webp_bytes": 17102
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/two-satyr-couples-on-foliate-candelabrum.png",
+        "webp": "webp/256/two-satyr-couples-on-foliate-candelabrum.webp",
+        "width": 121,
+        "height": 256,
+        "png_bytes": 96541,
+        "webp_bytes": 59548
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/two-satyr-couples-on-foliate-candelabrum.png",
+        "webp": "webp/512/two-satyr-couples-on-foliate-candelabrum.webp",
+        "width": 243,
+        "height": 512,
+        "png_bytes": 347655,
+        "webp_bytes": 213452
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/two-satyr-couples-on-foliate-candelabrum.png",
+        "webp": "webp/768/two-satyr-couples-on-foliate-candelabrum.webp",
+        "width": 364,
+        "height": 768,
+        "png_bytes": 748300,
+        "webp_bytes": 463982
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Ornament with Two Couples of Satyrs",
+      "object_identifier": "2012.136.787",
+      "date": "1549",
+      "artist": "Heinrich Aldegrever",
+      "record_url": "https://www.metmuseum.org/art/collection/search/399020",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "1b0298217d17dbcc2bfc39193d7737144253e4ca2c6d43c22269d9494d440cf2",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828530.jpg",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 1921,
+      "height": 4000
+    },
+    "master_longest_dimension_cap": 1752,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A winged putto holding a shield, with its body flowing into an intertwined foliate scroll. Part of the Hopfer Ten Friezes set.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "putto",
+      "wing",
+      "shield",
+      "scroll",
+      "leaf"
+    ],
+    "facing": "left",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "winged-putto-with-shield-and-braided-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-399648",
+    "png": "png/winged-putto-with-shield-and-braided-scroll.png",
+    "webp": "webp/winged-putto-with-shield-and-braided-scroll.webp",
+    "width": 2405,
+    "height": 344,
+    "png_bytes": 878887,
+    "webp_bytes": 495804,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/winged-putto-with-shield-and-braided-scroll.png",
+        "webp": "webp/128/winged-putto-with-shield-and-braided-scroll.webp",
+        "width": 128,
+        "height": 18,
+        "png_bytes": 5393,
+        "webp_bytes": 3158
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/winged-putto-with-shield-and-braided-scroll.png",
+        "webp": "webp/256/winged-putto-with-shield-and-braided-scroll.webp",
+        "width": 256,
+        "height": 37,
+        "png_bytes": 19030,
+        "webp_bytes": 10056
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/winged-putto-with-shield-and-braided-scroll.png",
+        "webp": "webp/512/winged-putto-with-shield-and-braided-scroll.webp",
+        "width": 512,
+        "height": 73,
+        "png_bytes": 62119,
+        "webp_bytes": 32536
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/winged-putto-with-shield-and-braided-scroll.png",
+        "webp": "webp/768/winged-putto-with-shield-and-braided-scroll.webp",
+        "width": 768,
+        "height": 110,
+        "png_bytes": 129561,
+        "webp_bytes": 69586
+      }
+    ],
+    "derivation": "mixed-source-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Designs for Ten Decorative Friezes",
+      "object_identifier": "2012.136.734",
+      "date": "ca. 1515",
+      "artist": "Daniel Hopfer",
+      "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+      "method": "mixed-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Hopfer Ten Friezes set. Original native engraving rigidly straightened using its printed horizontal rules. Independently inspected vertical page-cell end rules removed, preserving adjacent heads, wings, leaves and tips. Missing/faint horizontal rule columns narrowly completed using neighboring original ink profiles, retaining the hand-printed texture and slight natural line variation. Original figure/ornament interiors preserved without stretch or redraw. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-399648-set",
+        "name": "Hopfer Ten Friezes"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2539,
+      "height": 3944
+    },
+    "master_longest_dimension_cap": 2405,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
